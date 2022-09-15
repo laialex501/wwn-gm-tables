@@ -5,27 +5,15 @@
     "version": "1.0.0",
     "author": "Me",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "9",
+    "compatibleCoreVersion": "10",
     "packs": [
-        {
-            "name": "gm-master-tables",
-            "label": "GM Master Tables",
-            "path": "./packs/gm-master-tables.db",
-            "type": "RollTable"
-        },
         {
             "name": "gm-subtables",
             "label": "GM Subtables",
             "path": "./packs/gm-subtables.db",
             "type": "RollTable"
-        },
-        {
-            "name": "Instinct",
-            "label": "Instinct",
-            "path": "./packs/instnct.db",
-            "type": "RollTable"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "manifest": "https://raw.githubusercontent.com/laialex501/wwn-gm-tables/main/module.json",
+    "download": "https://github.com/laialex501/wwn-gm-tables/archive/refs/tags/v1.0.1.zip"
 }
