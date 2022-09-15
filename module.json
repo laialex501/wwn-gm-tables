@@ -1,0 +1,34 @@
+{
+    "name": "wwn-gamemaster-tables",
+    "title": "Worlds Without Number Gamemaster Tables",
+    "description": "A collection of compendium tables from Worlds Without Number.",
+    "version": "1.0.0",
+    "author": "Me",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        {
+            "name": "gm-master-tables",
+            "label": "GM Master Tables",
+            "path": "./packs/gm-master-tables.db",
+            "entity": "RollTable",
+            "type": "RollTable"
+        },
+        {
+            "name": "gm-subtables",
+            "label": "GM Subtables",
+            "path": "./packs/gm-subtables.db",
+            "entity": "RollTable",
+            "type": "RollTable"
+        },
+        {
+            "name": "Instinct",
+            "label": "Instinct",
+            "path": "./packs/instnct.db",
+            "entity": "RollTable",
+            "type": "RollTable"
+        }
+    ],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+}
