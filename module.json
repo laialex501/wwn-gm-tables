@@ -1,11 +1,17 @@
 {
-    "name": "wwn-gamemaster-tables",
-    "title": "Worlds Without Number Gamemaster Tables",
+    "id": "wwn-tables",
+    "title": "Worlds Without Number Tables",
     "description": "A collection of compendium tables from Worlds Without Number.",
     "version": "1.0.0",
-    "author": "Me",
-    "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "10",
+    "authors": [
+        {
+            "name": "laialex501"
+        }
+    ],
+    "compatibility": {
+        "minimum": "9",
+        "verified": "10"
+    },
     "packs": [
         {
             "name": "gm-subtables",
