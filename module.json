@@ -15,8 +15,14 @@
     "packs": [
         {
             "name": "gm-subtables",
-            "label": "GM Subtables",
+            "label": "GM-Subtables",
             "path": "./packs/gm-subtables.db",
+            "type": "RollTable"
+        },
+        {
+            "name": "gm-master-tables",
+            "label": "GM-Master-Tables",
+            "path": "./packs/gm-master-tables.db",
             "type": "RollTable"
         }
     ],
