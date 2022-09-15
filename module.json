@@ -11,21 +11,18 @@
             "name": "gm-master-tables",
             "label": "GM Master Tables",
             "path": "./packs/gm-master-tables.db",
-            "entity": "RollTable",
             "type": "RollTable"
         },
         {
             "name": "gm-subtables",
             "label": "GM Subtables",
             "path": "./packs/gm-subtables.db",
-            "entity": "RollTable",
             "type": "RollTable"
         },
         {
             "name": "Instinct",
             "label": "Instinct",
             "path": "./packs/instnct.db",
-            "entity": "RollTable",
             "type": "RollTable"
         }
     ],
