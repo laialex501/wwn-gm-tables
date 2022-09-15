@@ -2,7 +2,7 @@
     "id": "wwn-tables",
     "title": "Worlds Without Number Tables",
     "description": "A collection of compendium tables from Worlds Without Number.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "authors": [
         {
             "name": "laialex501"
@@ -17,27 +17,31 @@
             "name": "gm-subtables",
             "label": "GM-Subtables",
             "path": "./packs/gm-subtables.db",
-            "type": "RollTable"
+            "type": "RollTable",
+            "entity": "RollTable"
         },
         {
             "name": "gm-master-tables",
             "label": "GM-Master-Tables",
             "path": "./packs/gm-master-tables.db",
-            "type": "RollTable"
+            "type": "RollTable",
+            "entity": "RollTable"
         },
         {
             "name": "instinct-tables",
             "label": "Instinct-Tables",
             "path": "./packs/instinct.db",
-            "type": "RollTable"
+            "type": "RollTable",
+            "entity": "RollTable"
         },
         {
             "name": "tags",
             "label": "Tags",
             "path": "./packs/tags.db",
-            "type": "JournalEntry"
+            "type": "JournalEntry",
+            "entity": "JournalEntry"
         }
     ],
     "manifest": "https://raw.githubusercontent.com/laialex501/wwn-gm-tables/main/module.json",
-    "download": "https://github.com/laialex501/wwn-gm-tables/archive/refs/tags/v1.0.3.zip"
+    "download": "https://github.com/laialex501/wwn-gm-tables/archive/refs/tags/v1.0.4.zip"
 }
