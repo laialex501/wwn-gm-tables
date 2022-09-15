@@ -2,7 +2,7 @@
     "id": "wwn-tables",
     "title": "Worlds Without Number Tables",
     "description": "A collection of compendium tables from Worlds Without Number.",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "authors": [
         {
             "name": "laialex501"
@@ -27,5 +27,5 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/laialex501/wwn-gm-tables/main/module.json",
-    "download": "https://github.com/laialex501/wwn-gm-tables/archive/refs/tags/v1.0.1.zip"
+    "download": "https://github.com/laialex501/wwn-gm-tables/archive/refs/tags/v1.0.2.zip"
 }
