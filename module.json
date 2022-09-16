@@ -1,8 +1,10 @@
 {
     "id": "wwn-tables",
+    "name": "wwn-tables",
     "title": "Worlds Without Number Tables",
     "description": "A collection of compendium tables from Worlds Without Number.",
     "version": "1.0.4",
+    "author": "laialex501",
     "authors": [
         {
             "name": "laialex501"
@@ -12,6 +14,9 @@
         "minimum": "9",
         "verified": "10"
     },
+    "compatibleCoreVersion": "9",
+    "minimumCoreVersion": "9",
+    "type": "module",
     "packs": [
         {
             "name": "gm-subtables",
@@ -43,5 +48,5 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/laialex501/wwn-gm-tables/main/module.json",
-    "download": "https://github.com/laialex501/wwn-gm-tables/archive/refs/tags/v1.0.4.zip"
+    "download": "https://github.com/laialex501/wwn-gm-tables/refs/heads/main.zip"
 }
